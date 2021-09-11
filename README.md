@@ -89,3 +89,5 @@ This challenge is completely free. Please share it with anyone who will find it 
 # single-price-component
 # single-price-component
 # single
+#single
+# single
